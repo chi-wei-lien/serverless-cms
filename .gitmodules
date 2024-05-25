@@ -1,0 +1,6 @@
+[submodule "serverless-cms-sam"]
+	path = serverless-cms-sam
+	url = git@github.com:chi-wei-lien/serverless-cms-sam.git
+[submodule "serverless-cms-frontend"]
+	path = serverless-cms-frontend
+	url = git@github.com:chi-wei-lien/serverless-cms-frontend.git
