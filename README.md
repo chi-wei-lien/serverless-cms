@@ -20,10 +20,10 @@ Curious about the technology behind Simple CMS? Here's a quick overview of the t
 
 The backend of Simple CMS is entirely serverless, utilizing various AWS services to ensure simplicity, flexibility, and scalability. The core components include:
 
-- Authentication: AWS Cognito
-- Backend Logic: AWS lambda
-- Database: AWS DynamoDB
-- General Storage: AWS S3 Bucket
+- **Authentication:** AWS Cognito
+- **Backend Logic:** AWS lambda
+- **Database:** AWS DynamoDB
+- **General Storage:** AWS S3 Bucket
 
 All Lambda functions are coded in C# (.NET).
 
