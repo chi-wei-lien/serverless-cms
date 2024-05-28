@@ -6,15 +6,7 @@ Simple CMS is a straightforward Content Management System built using Amazon Web
 ## How to use?
 
 Below is a simple demonstration of how to use Simple CMS.
-<iframe
-  width="640"
-  height="480"
-  src="https://www.youtube.com/watch?v=HoH9xxC3cmI"
-  frameborder="0"
-  allow="autoplay; encrypted-media"
-  allowfullscreen
->
-</iframe>
+[![IMAGE_ALT](https://img.youtube.com/vi/HoH9xxC3cmI/0.jpg)](https://www.youtube.com/watch?v=HoH9xxC3cmI)
 
 ## Key Functionalities
 - **Create Post Groups:** Organize your content into distinct groups.
